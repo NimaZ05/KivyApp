@@ -1,2 +1,2 @@
-# this is practice with kivy frame work
+# this is practice with kivy framework
 # feel free
